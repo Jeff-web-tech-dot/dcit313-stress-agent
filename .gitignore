@@ -1,0 +1,14 @@
+# The dataset is NOT uploaded to GitHub (size + terms of use)
+data/*
+!data/README.md
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Other
+.DS_Store
+*.pkl
