@@ -1,7 +1,7 @@
 # Confidence-Aware Stress Support Agent for University Students
 
 DCIT 313 (Introduction to AI) semester project, University of Ghana, 2026/2027.
-Team: G## (fill in team number and names below).
+Team: AI Empire
 
 This is a **wellness prototype, not a medical tool**. It does not diagnose anything.
 
@@ -19,7 +19,7 @@ with always acting on the model's answer?
 |---|---|---|
 | Problem and ethics lead | | docs/ |
 | Data and evaluation lead | | src/stress_agent/data_loading.py, features.py, evaluate.py, scripts/ |
-| Agent and system lead | | src/stress_agent/models.py, policy.py, context_sim.py, agent.py |
+| Agent and system lead |Jeffery Anyimah Kwasi | src/stress_agent/models.py, policy.py, context_sim.py, agent.py |
 | Software and testing lead | | tests/, README, requirements, repo health |
 | Research and reporting lead | | docs/ (logs, related work, report) |
 
