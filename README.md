@@ -18,7 +18,7 @@ with always acting on the model's answer?
 | Role | Name | Main folders |
 |---|---|---|
 | Problem and ethics lead |Princess Sarah Atafiri | docs/ |
-| Data and evaluation lead | | src/stress_agent/data_loading.py, features.py, evaluate.py, scripts/ |
+| Data and evaluation lead |Ibrahim Hidayat | src/stress_agent/data_loading.py, features.py, evaluate.py, scripts/ |
 | Agent and system lead |Jeffery Anyimah Kwasi | src/stress_agent/models.py, policy.py, context_sim.py, agent.py |
 | Software and testing lead | | tests/, README, requirements, repo health |
 | Research and reporting lead | | docs/ (logs, related work, report) |
