@@ -4,6 +4,10 @@ University of Ghana students go through demanding exam and deadline weeks, and a
 
 Intended beneficiary: University of Ghana students. The agent is designed around a wrist device a student could wear every day. The project does not claim that the WESAD data represents UG students.
 
+Target users: Undergraduate University of Ghana students who could wear a wrist device while they study. The student sees one of three things: a short self-care suggestion, a message that the system is not sure, or a suggestion to talk to a real person. The tool is not meant for counsellors, doctors or lecturers to diagnose or assess anyone.
+
+Motivation: Exam and deadline periods can be stressful for students. A tool that reads wearable signals could prompt a short pause at a useful moment. The risk is that a tool that acts on every prediction will sometimes be wrong while sounding sure. This project tests one way to reduce that risk: letting the agent hold back when it is not sure. This motivation comes from the team design reasoning. It is not a measured finding about UG students, and no statistics on student stress are claimed.
+
 Agent task:
 - Input: a short window of wrist-sensor readings from WESAD, plus simulated context (for example, exam week and 15 free minutes).
 - Decision: logistic regression predicts stress or not stress with a confidence score. If the confidence is high enough, the agent picks a suggestion that fits the context.
