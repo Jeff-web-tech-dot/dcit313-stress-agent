@@ -25,7 +25,7 @@ Hypothesis: Holding back reduces the wrong-confident rate but increases the hold
 
 ## 4. Data and Ethics Pathway
 
-- Dataset: WESAD (Schmidt et al., 2018), 15 usable participants (S2 to S17, excluding S12). The authors discarded S1 and S12 for sensor malfunction. The dataset was downloaded from its own page on 18 July 2026. The page names no formal licence but allows non-commercial use with credit to the owners. This is a non-commercial course project, and the team cites Schmidt et al. (2018).
+- Dataset: WESAD (Schmidt et al., 2018), 15 usable participants (S2 to S17, excluding S12). The authors discarded S1 and S12 for sensor malfunction. The dataset was downloaded from its own page (https://uni-siegen.sciebo.de/s/HGdUkoNlW1Ub0Gx) in November 2026. The page names no formal licence but allows non-commercial use with credit to the owners. This is a non-commercial course project, and the team cites Schmidt et al. (2018).
 - Human participants: None. The context inputs (such as exam week and free minutes) are simulated and labelled as such, and are never presented as real user feedback. No private University of Ghana student data is used. Any future user feedback would first be discussed with the lecturer and go through the University's ethics approval process.
 - Safeguards: The system is a non-authoritative wellness prototype. It makes no diagnosis, never replaces real help, does not act when unsure, logs every decision, and stores no private data.
 
